@@ -1,4 +1,4 @@
-#Conways Game of Life
+# Conways Game of Life
 
 ![2023-07-12-15-10-56](https://github.com/RajPandya737/Conway-s-Game-of-Life/assets/99134716/60a62e8b-b9ff-4129-a16f-63582dbd9ece)
 
